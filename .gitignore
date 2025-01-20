@@ -1,0 +1,6 @@
+# Ignorar configuraciones específicas del sistema
+.DS_Store
+
+# Ignorar configuraciones de IDEs como IntelliJ IDEA o Android Studio
+.idea/
+
